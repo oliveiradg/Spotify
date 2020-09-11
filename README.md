@@ -1,2 +1,2 @@
 # Spotify
- Recriando o Spotify
+🔥 SPOTIFY CLONE COM HTML, CSS E JS (PURO)
